@@ -44,6 +44,7 @@ I am a `Junior .NET Backend Developer` from Russia
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="80" height="80"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" title="RESTApi" **alt="RESTApi" width="80" height="80"/>
   <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg" title="Docker" **alt="Docker" width="80" height="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/OOP.svg" title="OOP" **alt="OOP" width="100" height="80"/>
 </div>
 
 ---
