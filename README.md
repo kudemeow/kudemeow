@@ -25,10 +25,14 @@
   <img src="https://i.pinimg.com/originals/17/28/5f/17285fc448d970cdd53b1b3ba11d7e66.gif"/>
 </div>
 
-### :woman_technologist: About Me :  
-I am a `.NET Backend Developer` from Russia  
+---
 
-### :hammer_and_wrench: Languages and Tools :  
+## :woman_technologist: About Me :  
+I am a `Junior .NET Backend Developer` from Russia  
+
+---
+
+## :hammer_and_wrench: Languages and Tools :  
 <div>
   <img src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/.NET%20Core/Bitmap%20RGB/Bitmap-MEDIUM_NET-Core-Logo_2colors_Square_Boxed_RGB.png" title=".NET Core" **alt=".NET Core" width="80" height="80"/>
   <img src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/ASP.NET%20Core%20MVC/Bitmap%20RGB/Bitmap-BIG_ASP.NET-Core-MVC-Logo_2colors_Square_Boxed_RGB.png" title="ASP.NET Core MVC" **alt="ASP.NET Core MVC" width="80" height="80"/>
@@ -41,3 +45,9 @@ I am a `.NET Backend Developer` from Russia
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" title="RESTApi" **alt="RESTApi" width="80" height="80"/>
   <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg" title="Docker" **alt="Docker" width="80" height="80"/>
 </div>
+
+---
+
+## :fire: My Stats :  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kudemeow&theme=chartreuse-dark&border_radius=5.5)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kudemeow&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
