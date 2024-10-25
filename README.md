@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/23/f2/7a/23f27a908dbf7976abc5b9548f7dbe87.gif"/>
+  <img src="https://i.pinimg.com/originals/17/28/5f/17285fc448d970cdd53b1b3ba11d7e66.gif"/>
 </div>
 
 <div id="badges" align="center">
@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/17/28/5f/17285fc448d970cdd53b1b3ba11d7e66.gif"/>
+  <img src="https://i.pinimg.com/originals/23/f2/7a/23f27a908dbf7976abc5b9548f7dbe87.gif" width="470" height="430"/>
 </div>
 
 ---
