@@ -28,11 +28,11 @@
 ---
 
 ## :woman_technologist: About Me :  
-I am a `Junior .NET Backend Developer` from Russia  
+I am a `Junior Go Backend Developer` from Russia  
 
 ---
 
-## :hammer_and_wrench: Languages and Tools :  
+<!-- ## :hammer_and_wrench: Languages and Tools :  
 <div>
   <img src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/.NET%20Core/Bitmap%20RGB/Bitmap-MEDIUM_NET-Core-Logo_2colors_Square_Boxed_RGB.png" title=".NET Core" **alt=".NET Core" width="80" height="80"/>
   <img src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/ASP.NET%20Core%20MVC/Bitmap%20RGB/Bitmap-BIG_ASP.NET-Core-MVC-Logo_2colors_Square_Boxed_RGB.png" title="ASP.NET Core MVC" **alt="ASP.NET Core MVC" width="80" height="80"/>
@@ -45,7 +45,7 @@ I am a `Junior .NET Backend Developer` from Russia
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" title="RESTApi" **alt="RESTApi" width="80" height="80"/>
   <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg" title="Docker" **alt="Docker" width="80" height="80"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/OOP.svg" title="OOP" **alt="OOP" width="100" height="80"/>
-</div>
+</div> -->
 
 ---
 
