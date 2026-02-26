@@ -28,7 +28,7 @@
 ---
 
 ## :woman_technologist: About Me :  
-I am a `Junior Go Backend Developer` from Russia  
+I am a `Junior .NET Backend Developer` from Russia  
 
 ---
 
